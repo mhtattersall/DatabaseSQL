@@ -7,3 +7,5 @@ https://prepinsta.com/dbms/relationship-cardinality/
 https://www.edureka.co/blog/normalization-in-sql/  
 Drawing ER Diagrmas https://github.com/jgraph/drawio, https://www.drawio.com/  
 Free alternative to MySQL Workbench https://dbeaver.io/
+https://www.red-gate.com/simple-talk/databases/sql-server/learn/sql-server-index-basics/  
+https://www.atlassian.com/data/sql/how-indexing-works  
