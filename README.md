@@ -14,3 +14,6 @@ https://www.red-gate.com/simple-talk/databases/sql-server/learn/sql-server-index
 https://www.atlassian.com/data/sql/how-indexing-works  
 https://regexr.com/  
 https://regexone.com/  
+https://www.datacamp.com/cheat-sheet/regular-expresso  
+https://medium.com/@artem.mykytyshyn/regex-cheat-sheet-11eb0e42db68  
+
