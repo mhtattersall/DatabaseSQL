@@ -1,6 +1,7 @@
 # DatabaseSQL
 
-education_database.sql and education_plus.sql are example installation scripts.  
+education_database.sql and education_plus.sql are example installation scripts.
+sakila-schema.sql installs the schema for a movie rental database.  sakila-data.sql installs the data.
 
 https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5  
 https://agiledata.org/essays/dataModeling101.html  
