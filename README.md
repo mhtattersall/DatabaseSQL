@@ -18,4 +18,4 @@ https://regexr.com/
 https://regexone.com/  
 https://www.datacamp.com/cheat-sheet/regular-expresso  
 https://medium.com/@artem.mykytyshyn/regex-cheat-sheet-11eb0e42db68  
-
+select clause https://dev.mysql.com/doc/refman/9.2/en/select.html  
