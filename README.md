@@ -1,5 +1,7 @@
 # DatabaseSQL
 
+https://github.com/itversity/data-engineering-essentials/tree/main/025%20SQL%20Essentials%20for%20Data%20Engineers  
+
 education_database.sql and education_plus.sql are example installation scripts.  
 sakila-schema.sql installs the schema for a movie rental database.  sakila-data.sql installs the data.  
 date_time.sql contains some datetime functions.
